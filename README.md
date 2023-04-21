@@ -1,3 +1,4 @@
-### Machine Learning for Public Policy project for : Maxine Xu, Miao Li, Yujie Jiang, Jariel Yang
+## Machine Learning for Public Policy project
+Maxine Xu, Miao Li, Yujie Jiang, Jariel Yang
 
-## Topic: Predicting Pneumonia from X-Ray Image
+### Topic: Predicting Pneumonia from X-Ray Image
